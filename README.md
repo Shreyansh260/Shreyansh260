@@ -1,46 +1,45 @@
 <!-- ============================================================ -->
 <!--   SUKUNA GITHUB PROFILE — Shreyansh Singh Rathore           -->
 <!--   GitHub: Shreyansh260  |  Domain Expansion Edition         -->
-<!--   All URLs verified & fixed                                  -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<!-- ░░ HEADER — capsule-render (most reliable service) ░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0000,55:3a0000,80:7a0000,100:8B0000&height=230&section=header&text=%E9%A0%98%E5%9F%9F%E5%B1%95%E9%96%8B%20%E2%88%9E%20MALEVOLENT%20SHRINE&fontSize=30&fontColor=cc2200&fontAlignY=38&desc=SHREYANSH%20SINGH%20RATHORE%20%E2%80%94%20Shreyansh260&descSize=20&descAlignY=60&descColor=D4AF37&animation=twinkling" width="100%" />
 
-<!-- ░░ TYPING SVG — demolab (reliable) ░░ -->
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=18&duration=2600&pause=1000&color=CC2200&background=00000000&center=true&vCenter=true&width=760&lines=%E3%80%94+%E9%A0%98%E5%9F%9F%E5%B1%95%E9%96%8B+%E3%80%95+Malevolent+Shrine+%E2%88%9E;git+push+--force+%3A+Domain+Expansion+Activated;Travel_Assistant+%E2%80%94+Even+roads+fear+the+King;Chat-Jee+%E2%80%94+JEE+bows+to+my+cursed+AI;I+don%27t+need+domains.+I+AM+the+domain.;I+am+the+strongest.+%E6%9C%80%E5%BC%B7.)](https://git.io/typing-svg)
 
-<!-- ░░ BADGES ░░ -->
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Shreyansh260&color=8B0000&style=for-the-badge&label=CURSED+SOULS+VISITED)
-[![GitHub followers](https://img.shields.io/github/followers/Shreyansh260?label=VESSELS&style=for-the-badge&color=8B0000&labelColor=000000)](https://github.com/Shreyansh260)
+[![GitHub followers](https://img.shields.io/github/followers/Shreyansh260?label=VESSELS&style=for-the-badge&color=8B0000&labelColor=000000&logo=github)](https://github.com/Shreyansh260)
+[![GitHub stars](https://img.shields.io/github/stars/Shreyansh260?affiliations=OWNER&style=for-the-badge&color=8B0000&labelColor=000000&logo=github&label=TOTAL+STARS)](https://github.com/Shreyansh260)
 
 </div>
 
 ---
 
 ```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-　　〔 領域展開 〕　　MALEVOLENT SHRINE　　〔 領域展開 〕
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+       〔 領域展開 〕  MALEVOLENT SHRINE  〔 領域展開 〕
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-<!-- ░░ BIO ░░ -->
-<table>
-<tr>
-<td width="60%">
+---
 
 ## 〔 伏黒 · Who Dares Enter My Domain 〕
 
 ```python
 # ░░ 領域展開 ░░  MALEVOLENT SHRINE  ░░
 
-class Shreyansh260(SukunaDomain):
+class Shreyansh260:
 
     # ── Cursed Vessel Info ──────────────────────
     name          = "Shreyansh Singh Rathore"
     github        = "Shreyansh260"
+    location      = "India 🇮🇳"
     followers     = 11
     repositories  = 17
     contributions = 189       # souls consumed
@@ -59,37 +58,15 @@ class Shreyansh260(SukunaDomain):
     cursed_energy = float('inf')     # unbounded
 
     def open_domain(self) -> str:
-        # Hands clasped. Eyes closed.
         return "〔 領域展開 〕∞ Malevolent Shrine"
 
     def __repr__(self) -> str:
         return "I don't need domains. I AM the domain."
 ```
 
-</td>
-<td width="40%" align="center">
-
-```
-╔═══════════════════╗
-║    / \            ║
-║   /   \           ║
-║  /     \          ║
-╠═══════════════════╣
-║  卍 SUKUNA'S 卍   ║
-║    CURSED MARK    ║
-╠═══════════════════╣
-║    最　強　者     ║
-║  THE  STRONGEST   ║
-╚═══════════════════╝
-```
-
 > *「 There is no such thing as a perfect being. Not even me. But in code — I come close. 」*
-
-![Stars](https://img.shields.io/github/stars/Shreyansh260?affiliations=OWNER&style=for-the-badge&color=8B0000&labelColor=000000&logo=github&label=★+STARS)
-
-</td>
-</tr>
-</table>
+>
+> — Ryomen Sukuna 卍 最強 ⛩
 
 ---
 
@@ -97,25 +74,23 @@ class Shreyansh260(SukunaDomain):
 
 <div align="center">
 
-<!-- Stats card — blood_dark theme -->
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Shreyansh260&show_icons=true&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&ring_color=cc2200&count_private=true&include_all_commits=true&hide_border=false&custom_title=%E3%80%94+%E9%A0%98%E5%9F%9F%E5%B1%95%E9%96%8B+%E3%80%95+Cursed+Energy+Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyansh260&show_icons=true&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&ring_color=cc2200&count_private=true&include_all_commits=true&hide_border=false&custom_title=Cursed+Energy+Stats&cache_seconds=1800" />
 &nbsp;
-<!-- Top langs card -->
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh260&layout=compact&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&text_color=D4AF37&hide_border=false&langs_count=6&custom_title=%E2%9B%A9+Cursed+Techniques+Used" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh260&layout=compact&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&text_color=D4AF37&hide_border=false&langs_count=6&custom_title=Cursed+Techniques&cache_seconds=1800" />
 
-<!-- Streak stats -->
-<img width="60%" src="https://streak-stats.demolab.com?user=Shreyansh260&theme=blood_dark&background=000000&border=8B0000&stroke=cc2200&ring=8B0000&fire=cc2200&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=cc2200&sideLabels=8B0000&dates=555555&hide_border=false" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Shreyansh260&theme=blood_dark&background=000000&border=8B0000&stroke=cc2200&ring=8B0000&fire=cc2200&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=cc2200&sideLabels=8B0000&dates=555555&hide_border=false" />
 
 </div>
 
 ---
 
-## 〔 黒閃 〕 Contribution Graph : 189 Souls Consumed
+## 〔 黒閃 〕 Contribution Graph : 189 Souls
 
 <div align="center">
 
-<!-- Activity graph — use the github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh260&bg_color=000000&color=cc2200&line=8B0000&point=D4AF37&area_color=1a0000&area=true&border_color=8B0000&hide_border=false&custom_title=%E3%80%94+%E9%BB%92%E9%96%83+%E3%80%95+189+Contributions+%E2%80%94+Cursed+Energy+Output" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh260&bg_color=000000&color=cc2200&line=8B0000&point=D4AF37&area_color=1a0000&area=true&border_color=8B0000&hide_border=false&custom_title=189+Contributions+%E2%80%94+Cursed+Energy+Output" width="100%"/>
 
 </div>
 
@@ -125,16 +100,29 @@ class Shreyansh260(SukunaDomain):
 
 <div align="center">
 
-<!-- Pinned repos — exact repo names from your profile -->
-[![Travel_Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=Travel_Assistant&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false)](https://github.com/Shreyansh260/Travel_Assistant)
+<a href="https://github.com/Shreyansh260/Travel_Assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=Travel_Assistant&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false&cache_seconds=1800" />
+</a>
 &nbsp;
-[![Chat-Jee](https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=Chat-Jee&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false)](https://github.com/Shreyansh260/Chat-Jee)
+<a href="https://github.com/Shreyansh260/Chat-Jee">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=Chat-Jee&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false&cache_seconds=1800" />
+</a>
 
-[![StockSense](https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=StockSense&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false)](https://github.com/Shreyansh260/StockSense)
+<br/><br/>
+
+<a href="https://github.com/Shreyansh260/StockSense">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=StockSense&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false&cache_seconds=1800" />
+</a>
 &nbsp;
-[![Mnist_Pridiction](https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=Mnist_Pridiction&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false)](https://github.com/Shreyansh260/Mnist_Pridiction)
+<a href="https://github.com/Shreyansh260/Mnist_Pridiction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=Mnist_Pridiction&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false&cache_seconds=1800" />
+</a>
 
-[![frequentist_probablity](https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=frequentist_probablity&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false)](https://github.com/Shreyansh260/frequentist_probablity)
+<br/><br/>
+
+<a href="https://github.com/Shreyansh260/frequentist_probablity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=frequentist_probablity&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false&cache_seconds=1800" />
+</a>
 
 </div>
 
@@ -146,29 +134,28 @@ class Shreyansh260(SukunaDomain):
 
 ### 卍 Languages
 
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=cc2200)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=cc2200)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=D4AF37)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=cc2200)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark)](https://skillicons.dev)
+
+`Python` &nbsp;&nbsp; `JavaScript` &nbsp;&nbsp; `HTML5` &nbsp;&nbsp; `CSS3` &nbsp;&nbsp; `C++`
+
+<br/>
 
 ### 𓂀 AI / ML — Innate Domain
 
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=cc2200)
-![PyTorch](https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=D4AF37)
-![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikit-learn&logoColor=cc2200)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark)](https://skillicons.dev)
+
+<br/>
+
 ![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=D4AF37)
 ![NumPy](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=cc2200)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=D4AF37)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-000000?style=for-the-badge&logo=python&logoColor=cc2200)
+
+<br/>
 
 ### ⛩ Tools — Cursed Weapons
 
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=D4AF37)
-![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=cc2200)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=D4AF37)
-![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=cc2200)
-![VSCode](https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=cc2200)
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,git,linux,vscode,docker,postgres&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -178,8 +165,7 @@ class Shreyansh260(SukunaDomain):
 
 <div align="center">
 
-<!-- Trophy — ryo-ma service, blood_dark theme -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shreyansh260&theme=blood_dark&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyansh260&theme=blood_dark&no-frame=false&no-bg=true&margin-w=8&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
 
 </div>
 
@@ -189,11 +175,10 @@ class Shreyansh260(SukunaDomain):
 
 <div align="center">
 
-<!-- Replace these URLs with your actual profiles -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=cc2200)](https://x.com/YOUR_TWITTER_HERE)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=D4AF37)](https://YOUR_PORTFOLIO_HERE)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=cc2200)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=cc2200)](https://x.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=D4AF37)](https://YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=cc2200)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -203,23 +188,22 @@ class Shreyansh260(SukunaDomain):
 
 ```
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-〔 領域展開 — MALEVOLENT SHRINE 〕
+        〔 領域展開 — MALEVOLENT SHRINE 〕
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-「 I built Travel_Assistant —
-    even roads kneel before the King.
-  I built Chat-Jee —
-    JEE itself bows to my cursed AI.
-  StockSense made the market my vessel.
+  「 I built Travel_Assistant —
+      even roads kneel before the King.
+    I built Chat-Jee —
+      JEE itself bows to my cursed AI.
+    StockSense made the market my vessel.
 
-  Know your place.
-  I am Shreyansh260.
-  I am the strongest. 」
+    Know your place.
+    I am Shreyansh260.
+    I am the strongest. 」
 
-        — Ryomen Sukuna　卍　最強　⛩
+          — Ryomen Sukuna  卍  最強  ⛩
 ```
 
-<!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,40:3a0000,75:0d0000,100:000000&height=130&section=footer&text=%E9%A0%98%E5%9F%9F%E5%B1%95%E9%96%8B+%E2%88%9E+%E6%9C%80%E5%BC%B7&fontSize=18&fontColor=cc2200&fontAlignY=65&animation=twinkling" width="100%" />
 
 </div>
