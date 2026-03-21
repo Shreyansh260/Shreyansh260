@@ -9,7 +9,8 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=18&duration=2600&pause=1000&color=CC2200&background=00000000&center=true&vCenter=true&width=760&lines=%E3%80%94+%E9%A0%98%E5%9F%9F%E5%B1%95%E9%96%8B+%E3%80%95+Malevolent+Shrine+%E2%88%9E;git+push+--force+%3A+Domain+Expansion+Activated;Travel_Assistant+%E2%80%94+Even+roads+fear+the+King;Chat-Jee+%E2%80%94+JEE+bows+to+my+cursed+AI;I+don%27t+need+domains.+I+AM+the+domain.;I+am+the+strongest.+%E6%9C%80%E5%BC%B7.)](https://git.io/typing-svg)
+<!-- width=680 prevents the typing text from being clipped in GitHub's profile column -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=16&duration=2600&pause=1000&color=CC2200&background=00000000&center=true&vCenter=true&width=680&lines=Domain+Expansion+%E2%88%9E+Malevolent+Shrine;git+push+--force+%3A+Domain+Expansion+Activated;Travel_Assistant+%E2%80%94+Even+roads+fear+the+King;Chat-Jee+%E2%80%94+JEE+bows+to+my+cursed+AI;I+don%27t+need+domains.+I+AM+the+domain.;I+am+the+strongest.+%E6%9C%80%E5%BC%B7.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,9 +23,9 @@
 ---
 
 ```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-       〔 領域展開 〕  MALEVOLENT SHRINE  〔 領域展開 〕
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  [ 領域展開 ]  MALEVOLENT SHRINE  [ 領域展開 ]
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 ---
@@ -39,26 +40,24 @@ class Shreyansh260:
     # ── Cursed Vessel Info ──────────────────────
     name          = "Shreyansh Singh Rathore"
     github        = "Shreyansh260"
-    location      = "India 🇮🇳"
+    location      = "India"
     followers     = 11
     repositories  = 17
-    contributions = 189       # souls consumed
+    contributions = 200        # souls consumed
 
     # ── Innate Techniques ───────────────────────
     cursed_projects = {
-        "Travel_Assistant"       : "AI route planner 🚗",
-        "Chat-Jee"               : "AI JEE study buddy 📚",
-        "StockSense"             : "Stock market AI 📈",
-        "Mnist_Pridiction"       : "Neural net vision 🧠",
-        "frequentist_probablity" : "Stats & ML mastery 📊",
+        "Travel_Assistant"       : "AI route planner",
+        "Chat-Jee"               : "AI JEE study buddy",
+        "StockSense"             : "Stock market AI",
+        "Mnist_Pridiction"       : "Neural net vision",
+        "frequentist_probablity" : "Stats & ML mastery",
     }
 
-    # ── Cursed Marks ────────────────────────────
-    tattoo_marks  = ["𓂀", "⛩", "卍", "𖤐"]
     cursed_energy = float('inf')     # unbounded
 
     def open_domain(self) -> str:
-        return "〔 領域展開 〕∞ Malevolent Shrine"
+        return "[ 領域展開 ] Malevolent Shrine"
 
     def __repr__(self) -> str:
         return "I don't need domains. I AM the domain."
@@ -66,7 +65,7 @@ class Shreyansh260:
 
 > *「 There is no such thing as a perfect being. Not even me. But in code — I come close. 」*
 >
-> — Ryomen Sukuna 卍 最強 ⛩
+> *— Ryomen Sukuna*
 
 ---
 
@@ -74,23 +73,23 @@ class Shreyansh260:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyansh260&show_icons=true&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&ring_color=cc2200&count_private=true&include_all_commits=true&hide_border=false&custom_title=Cursed+Energy+Stats&cache_seconds=1800" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh260&layout=compact&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&text_color=D4AF37&hide_border=false&langs_count=6&custom_title=Cursed+Techniques&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyansh260&show_icons=true&theme=dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&ring_color=cc2200&count_private=true&include_all_commits=true&cache_seconds=86400&hide_border=false&custom_title=Cursed+Energy+Stats" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh260&layout=compact&theme=dark&bg_color=000000&border_color=8B0000&title_color=cc2200&text_color=D4AF37&hide_border=false&langs_count=6&cache_seconds=86400&custom_title=Cursed+Techniques" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Shreyansh260&theme=blood_dark&background=000000&border=8B0000&stroke=cc2200&ring=8B0000&fire=cc2200&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=cc2200&sideLabels=8B0000&dates=555555&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=Shreyansh260&theme=blood_dark&background=000000&border=8B0000&stroke=cc2200&ring=8B0000&fire=cc2200&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=cc2200&sideLabels=8B0000&dates=555555" />
 
 </div>
 
 ---
 
-## 〔 黒閃 〕 Contribution Graph : 189 Souls
+## 〔 黒閃 〕 Contribution Graph : Cursed Energy Output
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh260&bg_color=000000&color=cc2200&line=8B0000&point=D4AF37&area_color=1a0000&area=true&border_color=8B0000&hide_border=false&custom_title=189+Contributions+%E2%80%94+Cursed+Energy+Output" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh260&bg_color=000000&color=cc2200&line=8B0000&point=D4AF37&area_color=1a0000&area=true&border_color=8B0000&hide_border=false&custom_title=Cursed+Energy+Output" width="96%"/>
 
 </div>
 
@@ -98,31 +97,18 @@ class Shreyansh260:
 
 ## 〔 十種影法術 〕 The King's Cursed Projects
 
+<!-- Replaced broken github-readme-stats pin cards with a native markdown table -->
+<!-- Pin cards rely on a rate-limited external service and frequently fail -->
+
 <div align="center">
 
-<a href="https://github.com/Shreyansh260/Travel_Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=Travel_Assistant&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false&cache_seconds=1800" />
-</a>
-&nbsp;
-<a href="https://github.com/Shreyansh260/Chat-Jee">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=Chat-Jee&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false&cache_seconds=1800" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Shreyansh260/StockSense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=StockSense&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false&cache_seconds=1800" />
-</a>
-&nbsp;
-<a href="https://github.com/Shreyansh260/Mnist_Pridiction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=Mnist_Pridiction&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false&cache_seconds=1800" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Shreyansh260/frequentist_probablity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyansh260&repo=frequentist_probablity&theme=blood_dark&bg_color=000000&border_color=8B0000&title_color=cc2200&icon_color=8B0000&text_color=D4AF37&hide_border=false&cache_seconds=1800" />
-</a>
+| Project | Description | Link |
+|:---|:---|:---:|
+| **Travel_Assistant** | AI-powered route planner | [![View](https://img.shields.io/badge/OPEN-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260/Travel_Assistant) |
+| **Chat-Jee** | AI JEE study companion | [![View](https://img.shields.io/badge/OPEN-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260/Chat-Jee) |
+| **StockSense** | Stock market AI predictor | [![View](https://img.shields.io/badge/OPEN-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260/StockSense) |
+| **Mnist_Pridiction** | Neural net handwriting model | [![View](https://img.shields.io/badge/OPEN-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260/Mnist_Pridiction) |
+| **frequentist_probablity** | Stats & ML mastery | [![View](https://img.shields.io/badge/OPEN-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260/frequentist_probablity) |
 
 </div>
 
@@ -161,16 +147,6 @@ class Shreyansh260:
 
 ---
 
-## 〔 呪術廻戦 〕 Trophies : Cursed Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shreyansh260&theme=blood_dark&no-frame=false&no-bg=true&margin-w=8&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
-
-</div>
-
----
-
 ## 〔 呪縛 〕 Sukuna's Decree : Find the King
 
 <div align="center">
@@ -188,20 +164,20 @@ class Shreyansh260:
 
 ```
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-        〔 領域展開 — MALEVOLENT SHRINE 〕
+      [ 領域展開 — MALEVOLENT SHRINE ]
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-  「 I built Travel_Assistant —
-      even roads kneel before the King.
-    I built Chat-Jee —
-      JEE itself bows to my cursed AI.
-    StockSense made the market my vessel.
+  I built Travel_Assistant —
+    even roads kneel before the King.
+  I built Chat-Jee —
+    JEE itself bows to my cursed AI.
+  StockSense made the market my vessel.
 
-    Know your place.
-    I am Shreyansh260.
-    I am the strongest. 」
+  Know your place.
+  I am Shreyansh260.
+  I am the strongest.
 
-          — Ryomen Sukuna  卍  最強  ⛩
+        — Ryomen Sukuna  最強
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,40:3a0000,75:0d0000,100:000000&height=130&section=footer&text=%E9%A0%98%E5%9F%9F%E5%B1%95%E9%96%8B+%E2%88%9E+%E6%9C%80%E5%BC%B7&fontSize=18&fontColor=cc2200&fontAlignY=65&animation=twinkling" width="100%" />
