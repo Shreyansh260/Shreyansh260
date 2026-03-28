@@ -165,7 +165,7 @@
 
 ---
 
-## 〔 呪縛 〕 Sukuna's Decree — Find the King
+## 〔 呪縛 〕Find the King
 
 <div align="center">
 
