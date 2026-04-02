@@ -54,7 +54,7 @@
 >
 > *「 I don't need domains. I AM the domain. 」*
 >
-> **— 最強 · Ryomen Sukuna**
+> **— 最強 .**
 
 </div>
 
@@ -169,10 +169,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/shriyansh-singh-rathore-1a0ba932a/)
 [![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-0a0000?style=for-the-badge&logo=x&logoColor=cc2200)](https://x.com/YOUR_TWITTER)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0000?style=for-the-badge&logo=firefox&logoColor=D4AF37)](https://YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-0a0000?style=for-the-badge&logo=gmail&logoColor=cc2200)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-0a0000?style=for-the-badge&logo=gmail&logoColor=cc2200)](mailto:shreyanshsinghrathore7@gmail.com)
 
 </div>
 
