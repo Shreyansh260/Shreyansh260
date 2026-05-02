@@ -1,178 +1,147 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0d0000,50:3a0000,80:7a0000,100:8B0000&height=280&section=header&text=領域展開&fontSize=72&fontColor=cc2200&fontAlignY=33&desc=MALEVOLENT%20SHRINE%20%E2%88%9E%20SHREYANSH%20SINGH%20RATHORE&descSize=19&descAlignY=56&descColor=D4AF37&animation=twinkling)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=16&duration=2600&pause=800&color=CC2200&center=true&vCenter=true&width=750&lines=領域展開+%E2%88%9E+Malevolent+Shrine;I+don%27t+need+domains.+I+AM+the+domain.;Travel_Assistant+%E2%80%94+Even+roads+fear+the+King.;Chat-Jee+%E2%80%94+JEE+bows+to+my+cursed+AI.;StockSense+%E2%80%94+The+market+is+my+vessel.;神の領域に踏み込むな。+Do+not+step+into+a+God%27s+domain.;私が最強だ。+I+am+the+strongest.)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shreyansh260&color=8B0000&style=for-the-badge&label=CURSED+SOULS+VISITED)
-[![Followers](https://img.shields.io/github/followers/Shreyansh260?label=VESSELS&style=for-the-badge&color=8B0000&labelColor=0a0000&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260)
-[![Stars](https://img.shields.io/github/stars/Shreyansh260?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=8B0000&labelColor=0a0000&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0d0000,50:3a0000,80:7a0000,100:8B0000&height=220&section=header&text=Shreyansh%20Singh%20Rathore&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Full-Stack%20Engineering&descSize=16&descAlignY=60&descColor=cc9900&animation=twinkling)
 
 </div>
 
 <br/>
 
----
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=14&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=680&lines=Building+AI+that+thinks.;Engineering+systems+that+scale.;Travel+Assistant+%E2%80%94+roads+reimagined+with+AI.;Chat-Jee+%E2%80%94+JEE+prep%2C+powered+by+intelligence.;StockSense+%E2%80%94+making+markets+legible.;India+%C2%B7+Open+Source+%C2%B7+Always+Learning.)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=Shreyansh260&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/Shreyansh260?label=FOLLOWERS&style=for-the-badge&color=8B0000&labelColor=0a0000&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/Shreyansh260?affiliations=OWNER&label=STARS&style=for-the-badge&color=8B0000&labelColor=0a0000&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260)
+
+</div>
+
+---
+
+## ◈ About
+
+```python
+class Shreyansh:
+    name     = "Shreyansh Singh Rathore"
+    alias    = "Shreyansh260"
+    origin   = "India"
+    focus    = ["AI", "Machine Learning", "Full-Stack Engineering"]
+    learning = ["Deep Learning", "System Design", "LLMs"]
+    open_to  = "Collaborations on meaningful projects"
 ```
-卍解 ∞ 呪術廻戦 ∞ 領域展開 ∞ 伏魔御厨子 ∞ 卍解
-```
+
+> *Building systems that solve real problems — from JEE prep tools to market prediction engines.*
+
+---
+
+## ◈ Featured Projects
+
+<div align="center">
+
+| &nbsp; | Project | What it does |
+|:---:|:---|:---|
+| 🔷 | [**Travel Assistant**](https://github.com/Shreyansh260/Travel_Assistant) | AI-powered route intelligence & navigation |
+| 🔶 | [**Chat-Jee**](https://github.com/Shreyansh260/Chat-Jee) | JEE study companion — knowledge meets AI |
+| 🔷 | [**StockSense**](https://github.com/Shreyansh260/StockSense) | Market prediction AI — noisy data → clear signals |
+| 🔶 | [**MNIST Prediction**](https://github.com/Shreyansh260/Mnist_Pridiction) | Neural network vision — digit recognition from scratch |
+| 🔷 | [**Frequentist Probability**](https://github.com/Shreyansh260/frequentist_probablity) | Stats & ML fundamentals, built from the ground up |
 
 </div>
 
 ---
 
-## 〔 伏黒 〕 Who Dares Enter My Domain
+## ◈ Tech Arsenal
 
 <div align="center">
 
-| | |
-|:---|:---|
-| **卍 Name** | Shreyansh Singh Rathore |
-| **⛩ Alias** | Shreyansh260 |
-| **𓂀 Origin** | India · Special Grade · Uncategorised |
-| **𖤐 Cursed Energy** | ∞ Unbounded |
-| **🩸 Grade** | Special Grade — Beyond Classification |
-| **⚔️ Innate Technique** | AI · ML · Full-Stack Sorcery |
+### Languages
 
-<br/>
+![Python](https://img.shields.io/badge/Python-0a0000?style=for-the-badge&logo=python&logoColor=D4AF37)
+![Java](https://img.shields.io/badge/Java-0a0000?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
+![C++](https://img.shields.io/badge/C++-0a0000?style=for-the-badge&logo=cplusplus&logoColor=D4AF37)
+![HTML5](https://img.shields.io/badge/HTML5-0a0000?style=for-the-badge&logo=html5&logoColor=D4AF37)
+![CSS3](https://img.shields.io/badge/CSS3-0a0000?style=for-the-badge&logo=css3&logoColor=D4AF37)
 
-![Vessels](https://img.shields.io/badge/VESSELS-11-0a0000?style=for-the-badge&labelColor=8B0000&logo=github&logoColor=D4AF37)
-![Repositories](https://img.shields.io/badge/CURSED_TOOLS-17-0a0000?style=for-the-badge&labelColor=8B0000&logo=github&logoColor=D4AF37)
-![Contributions](https://img.shields.io/badge/SOULS_SLAIN-200+-0a0000?style=for-the-badge&labelColor=8B0000&logo=github&logoColor=D4AF37)
+### AI / ML
 
-<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0000?style=for-the-badge&logo=tensorflow&logoColor=D4AF37)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0000?style=for-the-badge&logo=pytorch&logoColor=D4AF37)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0000?style=for-the-badge&logo=scikit-learn&logoColor=D4AF37)
+![Pandas](https://img.shields.io/badge/Pandas-0a0000?style=for-the-badge&logo=pandas&logoColor=D4AF37)
+![NumPy](https://img.shields.io/badge/NumPy-0a0000?style=for-the-badge&logo=numpy&logoColor=D4AF37)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0000?style=for-the-badge&logo=opencv&logoColor=D4AF37)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0000?style=for-the-badge&logo=jupyter&logoColor=D4AF37)
 
-> *「 在りし日の夢を見ろ。 」*
-> *Dream of days long past.*
->
-> *「 I don't need domains. I AM the domain. 」*
->
-> **— 最強 .**
+### Tools & Frameworks
+
+![Flask](https://img.shields.io/badge/Flask-0a0000?style=for-the-badge&logo=flask&logoColor=D4AF37)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0000?style=for-the-badge&logo=fastapi&logoColor=D4AF37)
+![Docker](https://img.shields.io/badge/Docker-0a0000?style=for-the-badge&logo=docker&logoColor=D4AF37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0000?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-0a0000?style=for-the-badge&logo=git&logoColor=D4AF37)
+![Linux](https://img.shields.io/badge/Linux-0a0000?style=for-the-badge&logo=linux&logoColor=D4AF37)
+![VS Code](https://img.shields.io/badge/VS%20Code-0a0000?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37)
 
 </div>
 
 ---
 
-## 〔 領域展開 〕 Cursed Energy Stats
+## ◈ GitHub Stats
 
 <div align="center">
 
-<!-- Generated by GitHub Actions — auto-updates every 24h -->
-<a href="https://github.com/Shreyansh260">
-  <img width="720em" src="https://raw.githubusercontent.com/Shreyansh260/Shreyansh260/main/github-metrics.svg" />
-</a>
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=Shreyansh260&show_icons=true&theme=dark&bg_color=0a0000&title_color=D4AF37&icon_color=8B0000&text_color=cccccc&border_color=8B0000&hide_border=false&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shreyansh260&layout=compact&theme=dark&bg_color=0a0000&title_color=D4AF37&text_color=cccccc&border_color=8B0000&hide_border=false&langs_count=6" />
 
 <br/><br/>
 
-<!-- Streak Stats - alternative provider for reliability -->
-<img src="https://streak-stats.demolab.com?user=Shreyansh260&theme=blood_dark&background=0a0000&border=8B0000&stroke=cc2200&ring=8B0000&fire=cc2200&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=cc2200&sideLabels=8B0000&dates=888888&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=Shreyansh260&theme=blood_dark&background=0a0000&border=8B0000&stroke=8B0000&ring=D4AF37&fire=cc2200&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=cc9900&sideLabels=cc9900&dates=888888" />
 
 </div>
 
 ---
 
-## 〔 黒閃 〕 Black Flash — Contribution Graph
+## ◈ Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh260&bg_color=0a0000&color=D4AF37&line=8B0000&point=cc2200&area_color=200000&area=true&border_color=8B0000&custom_title=黒閃+%E2%80%94+Black+Flash+%7C+Cursed+Energy+Output&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh260&bg_color=0a0000&color=D4AF37&line=8B0000&point=cc2200&area_color=1a0000&area=true&border_color=8B0000&hide_border=false&custom_title=Contribution+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 〔 十種影法術 〕 Ten Shadows — Cursed Projects
+## ◈ Contribution Snake
 
 <div align="center">
 
-| Shadow | Project | Innate Technique | Domain |
-|:---:|:---|:---|:---:|
-| 🐍 | **Travel_Assistant** | AI-powered route intelligence & navigation | [![領域展開](https://img.shields.io/badge/領域展開-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260/Travel_Assistant) |
-| 🐉 | **Chat-Jee** | JEE AI study companion — knowledge is cursed energy | [![領域展開](https://img.shields.io/badge/領域展開-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260/Chat-Jee) |
-| 🦅 | **StockSense** | Market prediction AI — the market bows to no one | [![領域展開](https://img.shields.io/badge/領域展開-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260/StockSense) |
-| 👁 | **Mnist_Prediction** | Neural net vision model — see what others cannot | [![領域展開](https://img.shields.io/badge/領域展開-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260/Mnist_Pridiction) |
-| 📜 | **frequentist_probability** | Stats & ML mastery — probability is just cursed math | [![領域展開](https://img.shields.io/badge/領域展開-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Shreyansh260/frequentist_probablity) |
-
-</div>
-
----
-
-## 〔 縛り 〕 Binding Vow — Tech Arsenal
-
-<div align="center">
-
-### 卍 &nbsp; Languages — Blood Pact &nbsp; 卍
-
-[![Skills](https://skillicons.dev/icons?i=python,java,html,css,cpp&theme=dark)](https://skillicons.dev)
-
-![Python](https://img.shields.io/badge/Python-0a0000?style=for-the-badge&logo=python&logoColor=D4AF37)
-![Java](https://img.shields.io/badge/Java-0a0000?style=for-the-badge&logo=openjdk&logoColor=cc2200)
-![HTML5](https://img.shields.io/badge/HTML5-0a0000?style=for-the-badge&logo=html5&logoColor=D4AF37)
-![CSS3](https://img.shields.io/badge/CSS3-0a0000?style=for-the-badge&logo=css3&logoColor=cc2200)
-![C++](https://img.shields.io/badge/C++-0a0000?style=for-the-badge&logo=cplusplus&logoColor=D4AF37)
-
-<br/>
-
-### 𓂀 &nbsp; AI / ML — Innate Domain &nbsp; 𓂀
-
-[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark)](https://skillicons.dev)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0000?style=for-the-badge&logo=tensorflow&logoColor=D4AF37)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0000?style=for-the-badge&logo=pytorch&logoColor=cc2200)
-![Pandas](https://img.shields.io/badge/Pandas-0a0000?style=for-the-badge&logo=pandas&logoColor=D4AF37)
-![NumPy](https://img.shields.io/badge/NumPy-0a0000?style=for-the-badge&logo=numpy&logoColor=cc2200)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a0000?style=for-the-badge&logo=jupyter&logoColor=D4AF37)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0000?style=for-the-badge&logo=python&logoColor=cc2200)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0000?style=for-the-badge&logo=scikit-learn&logoColor=D4AF37)
-
-<br/>
-
-### ⛩ &nbsp; Tools — Cursed Weapons &nbsp; ⛩
-
-[![Skills](https://skillicons.dev/icons?i=flask,fastapi,git,linux,vscode,docker,postgres&theme=dark)](https://skillicons.dev)
-
-![Flask](https://img.shields.io/badge/Flask-0a0000?style=for-the-badge&logo=flask&logoColor=D4AF37)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0000?style=for-the-badge&logo=fastapi&logoColor=cc2200)
-![Git](https://img.shields.io/badge/Git-0a0000?style=for-the-badge&logo=git&logoColor=D4AF37)
-![Docker](https://img.shields.io/badge/Docker-0a0000?style=for-the-badge&logo=docker&logoColor=cc2200)
-![Linux](https://img.shields.io/badge/Linux-0a0000?style=for-the-badge&logo=linux&logoColor=D4AF37)
-![VSCode](https://img.shields.io/badge/VSCode-0a0000?style=for-the-badge&logo=visualstudiocode&logoColor=cc2200)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0000?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
-
-</div>
-
----
-
-## 〔 蛇 〕 Cursed Snake — Devouring Contributions
-
-<div align="center">
-
-<!-- NOTE: To enable this, create .github/workflows/snake.yml — see instructions below -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreyansh260/Shreyansh260/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreyansh260/Shreyansh260/output/github-contribution-grid-snake.svg" />
-  <img alt="Cursed Snake devouring contributions" src="https://raw.githubusercontent.com/Shreyansh260/Shreyansh260/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Shreyansh260/Shreyansh260/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 〔 呪縛 〕Find the King
+## ◈ Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/shriyansh-singh-rathore-1a0ba932a/)
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-0a0000?style=for-the-badge&logo=x&logoColor=cc2200)](https://x.com/YOUR_TWITTER)
+[![Email](https://img.shields.io/badge/Email-0a0000?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:shreyanshsinghrathore7@gmail.com)
+[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-0a0000?style=for-the-badge&logo=x&logoColor=D4AF37)](https://x.com/YOUR_TWITTER)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0000?style=for-the-badge&logo=firefox&logoColor=D4AF37)](https://YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-0a0000?style=for-the-badge&logo=gmail&logoColor=cc2200)](mailto:shreyanshsinghrathore7@gmail.com)
 
 </div>
 
@@ -180,25 +149,10 @@
 
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    卍  伏魔御厨子  ∞  MALEVOLENT SHRINE  卍
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+*Open to collaborations. If you're building something interesting — let's talk.*
 
-> *「 I built Travel_Assistant — even roads kneel before the King. 」*
->
-> *「 I built Chat-Jee — JEE itself bows to my cursed AI. 」*
->
-> *「 StockSense made the market my vessel. 」*
->
-> *「 呪術師の頂点に立つ者は、最強でなければならない。 」*
-> *The one who stands at the apex of sorcery must be the strongest.*
->
-> **&nbsp; 卍 &nbsp; 最強 &nbsp; ⛩ &nbsp; 呪王 &nbsp; 卍**
+</div>
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:4a0000,65:1a0000,100:000000&height=160&section=footer&text=領域展開+∞+最強&fontSize=24&fontColor=cc2200&fontAlignY=62&animation=twinkling)
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,40:3a0000,70:0d0000,100:000000&height=140&section=footer&text=Shreyansh260&fontSize=20&fontColor=D4AF37&fontAlignY=65&animation=twinkling)
