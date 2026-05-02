@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0d0000,50:3a0000,80:7a0000,100:8B0000&height=220&section=header&text=Shreyansh%20Singh%20Rathore&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Full-Stack%20Engineering&descSize=16&descAlignY=60&descColor=cc9900&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0d0000,50:3a0000,80:7a0000,100:8B0000&height=220&section=header&text=Shreyansh%20Singh%20Rathore&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Science&descSize=16&descAlignY=60&descColor=cc9900&animation=twinkling)
 
 </div>
 
