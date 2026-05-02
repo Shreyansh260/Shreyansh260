@@ -26,23 +26,26 @@
 
 ---
 
-## ◈ About
+## About 
 
-```python
-class Shreyansh:
-    name     = "Shreyansh Singh Rathore"
-    alias    = "Shreyansh260"
-    origin   = "India"
-    focus    = ["AI", "Machine Learning", "Full-Stack Engineering"]
-    learning = ["Deep Learning", "System Design", "LLMs"]
-    open_to  = "Collaborations on meaningful projects"
-```
+| | |
+|:---|:---|
+| **Name** | Shreyansh Singh Rathore |
+| **Alias** | Shreyansh260 |
+| **Origin** | India |
+| **Grade** | Special Grade — Unclassified |
+| **Cursed Technique** | AI · Machine Learning · Full-Stack Engineering |
+| **Training** | Deep Learning · System Design · LLMs |
+| **Status** | Open to Collaboration |
 
-> *Building systems that solve real problems — from JEE prep tools to market prediction engines.*
+<br/>
+
+> *"The one who stands at the apex must be the strongest."*
+> — Building real AI. Real systems. Real impact.
 
 ---
 
-## ◈ Featured Projects
+## ▍Featured Projects
 
 <div align="center">
 
@@ -58,7 +61,7 @@ class Shreyansh:
 
 ---
 
-## ◈ Tech Arsenal
+## ▍Tech Arsenal
 
 <div align="center">
 
@@ -94,7 +97,7 @@ class Shreyansh:
 
 ---
 
-## ◈ GitHub Stats
+## ▍GitHub Stats
 
 <div align="center">
 
@@ -110,7 +113,7 @@ class Shreyansh:
 
 ---
 
-## ◈ Contribution Graph
+## ▍Contribution Graph
 
 <div align="center">
 
@@ -120,7 +123,7 @@ class Shreyansh:
 
 ---
 
-## ◈ Contribution Snake
+## ▍Contribution Snake
 
 <div align="center">
 
@@ -134,16 +137,16 @@ class Shreyansh:
 
 ---
 
-## ◈ Connect
+## ▍Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/shriyansh-singh-rathore-1a0ba932a/)
 [![Email](https://img.shields.io/badge/Email-0a0000?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:shreyanshsinghrathore7@gmail.com)
-[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-0a0000?style=for-the-badge&logo=x&logoColor=D4AF37)](https://x.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0000?style=for-the-badge&logo=firefox&logoColor=D4AF37)](https://YOUR_PORTFOLIO)
+
 
 </div>
+
 
 ---
 
