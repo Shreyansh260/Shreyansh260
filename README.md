@@ -35,8 +35,8 @@
 | **Origin** | India |
 | **Grade** | Special Grade — Unclassified |
 | **Cursed Technique** | AI · Machine Learning · Full-Stack Engineering |
-| **Training** | Deep Learning · System Design · LLMs |
-| **Status** | Open to Collaboration |
+| **Technologies** | Deep Learning · DJango · LLMs |
+| | |
 
 <br/>
 
