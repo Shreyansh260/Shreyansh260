@@ -72,7 +72,7 @@ I build AI and machine learning systems end-to-end — from data pipelines and m
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&theme=dark" />
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda,git,github,docker)](https://skillicons.dev)
 
 **Backend & Tools**
 
@@ -82,21 +82,14 @@ I build AI and machine learning systems end-to-end — from data pipelines and m
 
 <img src="assets/tactical-divider.svg" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a5220,100:b8860b&height=55&text=GitHub%20Stats&fontSize=22&fontColor=FFF6E0&fontAlignY=55" width="100%"/>
+<div align = "center">
+  
+![](https://github-readme-stats.shion.dev/api?username=Shreyansh260&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Shreyansh260&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyansh260&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
 </div>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyansh260&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a1f1f&title_color=E8A33D&icon_color=e07a3e&text_color=cccccc" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh260&layout=compact&hide_border=true&langs_count=6&bg_color=0a1f1f&title_color=E8A33D&text_color=cccccc" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Shreyansh260&hide_border=true&background=0a1f1f&ring=E8A33D&fire=f2994a&currStreakNum=E8A33D&sideNums=E8A33D&currStreakLabel=e07a3e&sideLabels=e07a3e&dates=999999" />
-
-</div>
 
 <img src="assets/tactical-divider.svg" width="100%"/>
 
@@ -118,9 +111,17 @@ I build AI and machine learning systems end-to-end — from data pipelines and m
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1f1f?style=for-the-badge&logo=linkedin&logoColor=E8A33D)](https://www.linkedin.com/in/shriyansh-singh-rathore-1a0ba932a/)
-[![Email](https://img.shields.io/badge/Email-0a1f1f?style=for-the-badge&logo=gmail&logoColor=E8A33D)](mailto:shreyanshsinghrathore7@gmail.com)
-
+<p>
+  <a href="https://www.linkedin.com/in/shriyansh-singh-rathore-1a0ba932a/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shreyanshsinghrathore7@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/E8A33D"
+         alt="Gmail" width="40" height="40">
+  </a>
+</p>
 </div>
 
 <div align="center">
