@@ -1,0 +1,55 @@
+<svg viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a1f1f" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#e07a3e" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#E8A33D" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#e07a3e" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0a1f1f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="29" width="1200" height="1.5" fill="url(#lineGrad2)"/>
+
+  <!-- crosshair, pulsing -->
+  <g transform="translate(600,30)">
+    <circle r="14" fill="none" stroke="#E8A33D" stroke-width="1.2" opacity="0.8">
+      <animate attributeName="r" values="10;16;10" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.35;0.9" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="-20" y1="0" x2="-8" y2="0" stroke="#E8A33D" stroke-width="1.2"/>
+    <line x1="8" y1="0" x2="20" y2="0" stroke="#E8A33D" stroke-width="1.2"/>
+    <line x1="0" y1="-20" x2="0" y2="-8" stroke="#E8A33D" stroke-width="1.2"/>
+    <line x1="0" y1="8" x2="0" y2="20" stroke="#E8A33D" stroke-width="1.2"/>
+  </g>
+
+  <!-- generic pistol silhouette, left -->
+  <g transform="translate(230,30) scale(0.9)" fill="#f2994a" opacity="0.85">
+    <path d="M -40 5 L 10 5 L 10 -6 L 30 -6 L 30 5 L 36 5 L 36 12 L -40 12 L -40 5 Z
+             M -40 5 L -40 20 L -34 20 L -34 12 L -40 12 Z" />
+  </g>
+
+  <!-- spent casing markers, drifting -->
+  <circle cx="380" cy="30" r="2.5" fill="#D4AF37">
+    <animate attributeName="cy" values="30;16;30;44;30" dur="4.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="4.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="470" cy="30" r="2" fill="#e07a3e">
+    <animate attributeName="cy" values="30;42;30;18;30" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.25;0.8" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="730" cy="30" r="2" fill="#e07a3e">
+    <animate attributeName="cy" values="30;44;30;16;30" dur="4.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.25;0.8" dur="4.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="30" r="2.5" fill="#D4AF37">
+    <animate attributeName="cy" values="30;18;30;42;30" dur="4.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="4.1s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- generic pistol silhouette, right, mirrored -->
+  <g transform="translate(970,30) scale(-0.9,0.9)" fill="#f2994a" opacity="0.85">
+    <path d="M -40 5 L 10 5 L 10 -6 L 30 -6 L 30 5 L 36 5 L 36 12 L -40 12 L -40 5 Z
+             M -40 5 L -40 20 L -34 20 L -34 12 L -40 12 Z" />
+  </g>
+</svg>
