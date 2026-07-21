@@ -30,8 +30,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d2b2b,100:1a3a3a&height=55&text=About&fontSize=22&fontColor=E8A33D&fontAlignY=55" width="100%"/>
 </div>
 
-I build AI and machine learning systems end-to-end — from data pipelines and model training to shipping them as products people actually use. My work sits at the intersection of applied ML and full-stack engineering: getting a model out of a notebook and into production.
-
+## I build AI and machine learning systems end-to-end — from data pipelines and model training to shipping them as products people actually use. My work sits at the intersection of applied ML and full-stack engineering: getting a model out of a notebook and into production.
+<div align = "center">
+  
 | | |
 |:---|:---|
 | **Name** | Shreyansh Singh Rathore |
@@ -39,6 +40,8 @@ I build AI and machine learning systems end-to-end — from data pipelines and m
 | **Based in** | India |
 | **Focus** | AI · Machine Learning · Full-Stack Engineering |
 | **Core Stack** | Deep Learning · Django · LLMs |
+
+</div>
 
 <img src="assets/tactical-divider.svg" width="100%"/>
 
